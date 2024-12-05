@@ -1,2 +1,3 @@
-作业/
+/homework/*
 !*.zip
+!*.rar
